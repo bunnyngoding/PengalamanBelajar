@@ -1,1 +1,1 @@
-test
+cout << "hello world";
