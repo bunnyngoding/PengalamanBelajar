@@ -1,2 +1,1 @@
 cout << "hello world";
-cout << "latihan fork dan pull request";
